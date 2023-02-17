@@ -1,7 +1,11 @@
 import styled from "styled-components"
 
 const AddButton = styled.button`
+    position: fixed;
+    right: 2rem;
+    bottom: 3rem;
     padding: 1rem 2rem;
+    
     border-radius: 50%;
     border: none;
     font-size: 3rem;
